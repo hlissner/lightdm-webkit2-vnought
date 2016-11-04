@@ -1,0 +1,6 @@
+[theme]
+name=Vnought
+description=My personal greeter
+engine=lightdm-webkit-greeter
+url=index.html
+session=bspwm
